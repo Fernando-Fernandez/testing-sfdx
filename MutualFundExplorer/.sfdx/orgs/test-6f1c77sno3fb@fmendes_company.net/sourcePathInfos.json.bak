@@ -1,0 +1,107 @@
+[
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1506653860000,
+            "changeTime": 1506653860000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1506653860000,
+            "changeTime": 1506653860000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1506654343000,
+            "changeTime": 1506654343000,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1506653860000,
+            "changeTime": 1506653860000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1506654343000,
+            "changeTime": 1506654343000,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1506654343000,
+            "changeTime": 1506654343000,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fmendes/geolocation/MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fmendes/geolocation/MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1506654374000,
+            "changeTime": 1506654374000,
+            "contentHash": "717fcbd7743cfb1cf008edf155c42e19376f1710",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
